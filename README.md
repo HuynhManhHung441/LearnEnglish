@@ -10,3 +10,5 @@ The curly braces: dấu ngoặc nhọn
 colon: dấu 2 chấm
 
 semicolon: dấu chấm phẩy
+
+comma: dấu phẩy
