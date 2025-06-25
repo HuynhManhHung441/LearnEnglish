@@ -13,8 +13,8 @@ semicolon: dấu chấm phẩy
 
 comma: dấu phẩy
 
-## Learn write skill by Duolingo
+## Learn writing skills by Duolingo
 
 ### Coding is important.
 
-My colleague is helping me with a website project for my factory. The website is about reporting the number of slabs that are discharged from the furnace. 
+My colleague is helping me with a website project for my factory. The website is about reporting the number of slabs that are discharged from the furnace. But I need a lot more coding skills. He explained to me how to do it.
