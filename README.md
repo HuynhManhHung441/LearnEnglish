@@ -13,6 +13,8 @@ semicolon: dấu chấm phẩy
 
 comma: dấu phẩy
 
+type coercion: ép kiểu
+
 ## Learn writing skills by Duolingo
 
 ### Coding is important.
