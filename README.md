@@ -23,3 +23,7 @@ type coercion: ép kiểu
 My colleague is helping me with a website project for my factory. The website is about reporting the number of slabs that are discharged from the furnace. But I need a lot more coding skills. He explained to me how to do it.
 
 ![image](https://github.com/user-attachments/assets/eff8280d-0f44-45eb-93a3-79fc1f20028a)
+
+![image](https://github.com/user-attachments/assets/9a8476ac-410b-41cf-9806-772ee9c82b6b)
+
+
