@@ -26,4 +26,6 @@ My colleague is helping me with a website project for my factory. The website is
 
 ![image](https://github.com/user-attachments/assets/9a8476ac-410b-41cf-9806-772ee9c82b6b)
 
+This week, I'm learning query data from SQL Server Database. I learned how to use WHERE, JOIN, LEFT JOIN, INNER JOIN, ON to develop my website.
+
 
