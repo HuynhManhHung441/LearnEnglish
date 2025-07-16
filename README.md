@@ -21,6 +21,9 @@ type coercion: ép kiểu
 
 - Duolingo is ***by far the easiest way*** to get started learning English.
 
+<img width="1755" height="837" alt="image" src="https://github.com/user-attachments/assets/ac05040b-7b2e-4ae5-b0ff-05cdad6835ae" />
+
+
 ### Coding is important.
 ![image](https://github.com/user-attachments/assets/b69ddc3b-6b29-42fe-96c6-640f5ff39af4)
 
