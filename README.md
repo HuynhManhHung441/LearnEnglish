@@ -15,6 +15,8 @@ comma: dấu phẩy
 
 type coercion: ép kiểu
 
+... as well as getting to know ... : cũng như tìm hiểu về ... 
+
 ## Learn writing skills by Duolingo
 
 ### Coding is important.
