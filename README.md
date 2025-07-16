@@ -19,6 +19,8 @@ type coercion: ép kiểu
 
 ## Learn writing skills by Duolingo
 
+- Duolingo is ***by far the easiest way*** to get started learning English.
+
 ### Coding is important.
 ![image](https://github.com/user-attachments/assets/b69ddc3b-6b29-42fe-96c6-640f5ff39af4)
 
