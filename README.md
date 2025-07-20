@@ -21,6 +21,8 @@ type coercion: ép kiểu
 
 - Duolingo is ***by far the easiest way*** to get started learning English.
 
+- I made a new  friend at the company. We often talk about our projects.
+
 <img width="1755" height="837" alt="image" src="https://github.com/user-attachments/assets/ac05040b-7b2e-4ae5-b0ff-05cdad6835ae" />
 
 
@@ -36,6 +38,8 @@ My colleague is helping me with a website project for my factory. The website is
 This week, I'm learning query data from SQL Server Database. I learned how to use WHERE, JOIN, LEFT JOIN, INNER JOIN, ON to develop my website.
 
 ![image](https://github.com/user-attachments/assets/0347306f-fe08-4ffd-a846-853d8f4e8797)
+
+
 
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/9b432b9c-293c-4164-afcc-9933e14455d3" />
 
