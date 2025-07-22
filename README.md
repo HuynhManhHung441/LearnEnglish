@@ -39,6 +39,9 @@ This week, I'm learning query data from SQL Server Database. I learned how to us
 
 ![image](https://github.com/user-attachments/assets/0347306f-fe08-4ffd-a846-853d8f4e8797)
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d07ec92f-d16c-4049-a0ea-2aa22a054274" />
+
+
 
 
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/9b432b9c-293c-4164-afcc-9933e14455d3" />
