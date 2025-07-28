@@ -23,6 +23,8 @@ type coercion: ép kiểu
 
 - I made a new  friend at the company. We often talk about our projects.
 
+- I enjoy coding with my colleague
+
 <img width="1755" height="837" alt="image" src="https://github.com/user-attachments/assets/ac05040b-7b2e-4ae5-b0ff-05cdad6835ae" />
 
 
