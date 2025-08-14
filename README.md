@@ -27,6 +27,8 @@ type coercion: ép kiểu
 
 - I listen to podcasts while doing the laundry and cooking
 
+- I couldn't turn on my computer after I restarted it. Can you help me check it?.
+
 <img width="1755" height="837" alt="image" src="https://github.com/user-attachments/assets/ac05040b-7b2e-4ae5-b0ff-05cdad6835ae" />
 
 
