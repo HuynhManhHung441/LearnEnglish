@@ -33,6 +33,9 @@ type coercion: ép kiểu
 
 <img width="1755" height="837" alt="image" src="https://github.com/user-attachments/assets/ac05040b-7b2e-4ae5-b0ff-05cdad6835ae" />
 
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/559d9ede-9005-4041-9600-9218f6ba54a4" />
+
+
 
 ### Coding is important.
 ![image](https://github.com/user-attachments/assets/b69ddc3b-6b29-42fe-96c6-640f5ff39af4)
