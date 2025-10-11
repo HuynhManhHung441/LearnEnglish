@@ -19,6 +19,8 @@ type coercion: ép kiểu
 
 ## Learn writing skills by Duolingo
 
+- My laptop's built-in keyboard stopped working, so I switched to an external one.
+
 - Duolingo is ***by far the easiest way*** to get started learning English.
 
 - I made a new  friend at the company. We often talk about our projects.
