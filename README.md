@@ -33,6 +33,8 @@ type coercion: ép kiểu
 
 - The content above the footer should be centered.
 
+- I can't find any data on the coil produced last shift.
+
 <img width="1920" height="1024" alt="image" src="https://github.com/user-attachments/assets/5fe8a3f9-6cee-4e3d-8808-dded8c3b8d38" />
 
 <img width="1755" height="837" alt="image" src="https://github.com/user-attachments/assets/ac05040b-7b2e-4ae5-b0ff-05cdad6835ae" />
