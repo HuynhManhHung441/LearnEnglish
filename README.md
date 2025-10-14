@@ -25,7 +25,9 @@ type coercion: ép kiểu
 
 - I made a new  friend at the company. We often talk about our projects.
 
-- I enjoy coding with my colleague.
+- I enjoy coding with my colleague. 
+
+- The function to export PDF files is not finished yet.
 
 - I listen to podcasts while doing the laundry and cooking
 
