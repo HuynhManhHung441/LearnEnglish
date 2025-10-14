@@ -31,6 +31,8 @@ type coercion: ép kiểu
 
 - I listen to podcasts while doing the laundry and cooking
 
+- Where should I put this table on the main page?
+
 - I couldn't turn on my computer after I restarted it. Can you help me check it?.
 
 - The content above the footer should be centered.
