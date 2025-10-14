@@ -19,7 +19,7 @@ type coercion: ép kiểu
 
 ## Learn writing skills by Duolingo
 
-- My laptop's built-in keyboard stopped working, so I switched to an external one. I chose this solution because I don't have enough money to replace the keyboard.
+- My laptop's built-in keyboard stopped working, so I switched to an external one. I chose this solution because I don't have enough money to replace the keyboard. Today, I just got my salary so I can replace the keyboard this weekend or at the end of this month. 
 
 - Duolingo is ***by far the easiest way*** to get started learning English.
 
