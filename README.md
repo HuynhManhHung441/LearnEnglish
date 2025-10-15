@@ -25,6 +25,8 @@ type coercion: ép kiểu
 
 - I made a new  friend at the company. We often talk about our projects.
 
+- Did you buy the extension package to use more functions?
+
 - I enjoy coding with my colleague. 
 
 - The function to export PDF files is not finished yet.
