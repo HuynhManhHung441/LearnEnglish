@@ -29,6 +29,8 @@ type coercion: ép kiểu
 
 - Do you have any plans to release a new version?
 
+- We need to finish this task before next week.
+
 - I enjoy coding with my colleague. 
 
 - The function to export PDF files is not finished yet.
