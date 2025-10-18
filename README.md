@@ -29,6 +29,8 @@ type coercion: ép kiểu
 
 - Do you have any plans to release a new version?
 
+- I would like to program a new function that allows users to export data to an Excel file.
+
 - We need to finish this task before next week.
 
 - I enjoy coding with my colleague. 
