@@ -27,6 +27,8 @@ type coercion: ép kiểu
 
 - Did you buy the extension package to use more functions?
 
+- Do you have any plans to release a new version?
+
 - I enjoy coding with my colleague. 
 
 - The function to export PDF files is not finished yet.
