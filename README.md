@@ -31,6 +31,8 @@ type coercion: ép kiểu
 
 - The function to export PDF files is not finished yet.
 
+- What other functions does the Quality Department want to add to this website?
+
 - I listen to podcasts while doing the laundry and cooking
 
 - Where should I put this table on the main page?
