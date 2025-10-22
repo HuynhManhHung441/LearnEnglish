@@ -25,6 +25,8 @@ type coercion: ép kiểu
 
 - I made a new  friend at the company. We often talk about our projects.
 
+- Does this software have any function to filter data by column. We would like to have that function.
+
 - Did you buy the extension package to use more functions?
 
 - Do you have any plans to release a new version?
