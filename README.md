@@ -29,6 +29,8 @@ type coercion: ép kiểu
 
 - Did you buy the extension package to use more functions?
 
+- What type of data should we define for that column?
+
 - Do you have any plans to release a new version?
 
 - I would like to program a new function that allows users to export data to an Excel file.
