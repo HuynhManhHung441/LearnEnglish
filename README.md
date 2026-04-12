@@ -23,6 +23,8 @@ type coercion: ép kiểu
 
 - Duolingo is ***by far the easiest way*** to get started learning English.
 
+- I’m interested in computers, so I study software development.
+
 - I made a new  friend at the company. We often talk about our projects.
 
 - Does this software have any function to filter data by column. We would like to have that function.
