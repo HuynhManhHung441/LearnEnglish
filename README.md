@@ -21,6 +21,8 @@ type coercion: ép kiểu
 
 - Do you code as often as Mr. Dan?
 
+- I can't respond as quickly as my colleague.
+
 - When you enter my factory, you can feel the heat. Because my factory produces hot rolled coil (HRC).
 
 - My laptop's built-in keyboard stopped working, so I switched to an external one. I chose this solution because I don't have enough money to replace the keyboard. Today, I just got my salary so I can replace the keyboard this weekend or at the end of this month. 
