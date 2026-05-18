@@ -17,6 +17,9 @@ type coercion: ép kiểu
 
 ... as well as getting to know ... : cũng như tìm hiểu về ... 
 
+As such, : Do đó,
+
+
 ## Learn writing skills by Duolingo
 
 - Do you code as often as Mr. Dan?
